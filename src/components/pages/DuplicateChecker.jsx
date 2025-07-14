@@ -9,7 +9,7 @@ const DuplicateChecker = () => {
   const [selectedPair, setSelectedPair] = useState(null)
   const [showMergeModal, setShowMergeModal] = useState(false)
 
-  // Mock duplicate data
+  // Mock duplicate data jdndjn 
   const duplicates = [
     {
       id: 1,
